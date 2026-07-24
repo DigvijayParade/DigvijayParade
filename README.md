@@ -63,7 +63,7 @@
 
 <!-- ULTRA-COOL NEON CYAN GLOWING ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijayparde-cell&custom_title=Digvijay's%20Code%20Activity&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DigvijayParade&custom_title=Digvijay's%20Code%20Activity&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 <!-- MATCHING NEON STATS CARDS -->
